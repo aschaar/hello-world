@@ -1,2 +1,4 @@
 # hello-world
-Lab 4 GitHub Guide
+
+I am new to GitHub but excited to use it. 
+I have not eaten tacos on the moon, but I've eaten tacos before. 
